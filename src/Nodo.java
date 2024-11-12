@@ -1,7 +1,7 @@
 class Nodo {
     String nombre;
     int edad;
-    String sexo;
+    String sexo; // "M" para masculino, "F" para femenino
     Nodo izquierda;
     Nodo derecha;
 
